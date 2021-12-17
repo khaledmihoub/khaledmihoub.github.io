@@ -2,6 +2,10 @@
 html {
   scroll-behavior: smooth;
 }
+.iconify{
+    width: 25px;
+    height: 25px;
+}
 .hh::-webkit-scrollbar
 {
 	width: 8px;
